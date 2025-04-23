@@ -5,5 +5,5 @@
 - **Gonzalo Bucca**
 - **Erwin Citadino**
 - **Pablo Aparicio**
-- **Ariadna Leyes**
+- **Ariadna Coronel**
 - **Marcos Brochero**
