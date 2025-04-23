@@ -1,2 +1,9 @@
 # LosMagios-TercerSemestre
-El ayer se ha ido. ¿Que haras hoy? - HOLA
+
+👥 Integrantes del grupo
+
+- **Gonzalo Bucca**
+- **Erwin Citadino**
+- **Pablo Aparicio**
+- **Ariadna Leyes**
+- **Marcos Brochero**
